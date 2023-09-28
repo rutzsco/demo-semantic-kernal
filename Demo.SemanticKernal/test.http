@@ -1,0 +1,9 @@
+@baseUrl = http://localhost:7178/api/GitHubEndpoint?topic=engineer
+
+## GET
+GET {{baseUrl}}
+Content-Type: application/json
+
+
+
+
